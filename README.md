@@ -1,6 +1,6 @@
-**Project Title: Optimizing Taxi Fleet at JFK Airport**
+# Optimizing Taxi Fleet at JFK Airport
 
-**Description:**
+**Description**
 This project focuses on optimizing the number of taxis stationed at JFK International Airport in New York City. The dataset used comprises 300,000 taxi journeys recorded in 2016. The objective is to determine the ideal number of taxis to be stationed at the airport during different hours of the day and days of the week to maximize revenue for the taxi company.
 
 **Project Steps:**
